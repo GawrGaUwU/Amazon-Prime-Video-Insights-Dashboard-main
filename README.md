@@ -57,12 +57,6 @@ Pull requests are welcome! For major changes, open an issue first to discuss wha
 
 ---
 
-## 📑 License
-
-Distributed under the MIT License.
-
----
-
 ## 🙌 Credits
 
 Developed by [GawrGaUwU](https://github.com/GawrGaUwU)
