@@ -24,21 +24,6 @@ A visually rich, interactive dashboard that provides detailed insights into Amaz
 
 ---
 
-## 📂 Project Structure
-├── .devcontainer/ # Development container configuration
-├── pycache/ # Python cache files
-├── assets/ # Static assets (images, icons, etc.)
-├── amazon_prime_titles.csv # Amazon Prime Video dataset
-├── dashboard.py # Main dashboard script
-├── dashboard1.py # Additional dashboards/views
-├── dashboard2.py # Additional dashboards/views
-├── visualization.py # Visualization utilities
-├── dark_mode.py # Dark mode functionality
-├── footer.py # Footer component
-├── requirements.txt # Python dependencies
-
----
-
 ## 🔧 Installation & Setup
 
 1. **Clone the repository**
